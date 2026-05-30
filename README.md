@@ -188,7 +188,8 @@ mud_wl.py
 
 اختيارك: 1
 أدخل النطاق: google.com
-
+<div align="center">
+  
   اسم النطاق          GOOGLE.COM
   المسجِّل             MarkMonitor Inc.
   تاريخ التسجيل       1997-09-15
@@ -197,6 +198,8 @@ mud_wl.py
   خوادم الأسماء       ns1.google.com
   حالة النطاق         clientDeleteProhibited
   DNSSEC              unsigned
+  
+</div>
 
 ---
 

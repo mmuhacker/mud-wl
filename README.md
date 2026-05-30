@@ -191,12 +191,19 @@ mud_wl.py
 <div align="center">
   
   اسم النطاق          GOOGLE.COM
+  
   المسجِّل             MarkMonitor Inc.
+  
   تاريخ التسجيل       1997-09-15
+  
   تاريخ الانتهاء      2028-09-14
+  
   آخر تحديث           2019-09-09
+  
   خوادم الأسماء       ns1.google.com
+  
   حالة النطاق         clientDeleteProhibited
+  
   DNSSEC              unsigned
   
 </div>
@@ -207,7 +214,6 @@ mud_wl.py
 
 ## 🔧 المتطلبات
 
-</div>
 
 | المتطلب | الوصف |
 |---------|-------|
@@ -216,6 +222,8 @@ mud_wl.py
 | python-bidi | اتجاه النص العربي |
 | curl | تنزيل الأداة |
 | اتصال بالإنترنت | للاستعلام عن بيانات Whois |
+
+</div>
 
 > ⚠️ **ملاحظة:** بدون تثبيت `arabic-reshaper` و `python-bidi` سيظهر النص العربي معكوساً ومتقطعاً.
 

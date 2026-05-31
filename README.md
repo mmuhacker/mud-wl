@@ -22,7 +22,7 @@
 
 - [الوصف](#الوصف)
 - [المميزات](#المميزات)
-- [التثبيت](
+- [التثبيت](https://github.com/mmuhacker/mud-wl/blob/main/README.md#%EF%B8%8F-%D8%A7%D9%84%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA)
   - [التثبيت على Termux](#التثبيت-على-termux)
   - [التثبيت على Kali Linux](#التثبيت-على-kali-linux)
 - [التشغيل](#التشغيل)

@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📋 Whois Lookup — أداة معلومات تسجيل النطاق
+# 📋 Whois Lookup<br>أداة معلومات تسجيل النطاق
 
 **تعمل على نظام Kali Linux و تطبيق Termux**
 

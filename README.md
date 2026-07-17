@@ -154,7 +154,7 @@ sudo apt update && sudo apt upgrade -y && pip install requests arabic-reshaper p
 
 <div align="center" id="تحديث">
   
-## تحديث الأداة
+## 🔄 تحديث الأداة
 
 ***على أندرويد Termux***
 

@@ -22,9 +22,10 @@
 
 - [الوصف](#الوصف)
 - [المميزات](#المميزات)
-- [التثبيت](https://github.com/mmuhacker/mud-wl/blob/main/README.md#%EF%B8%8F-%D8%A7%D9%84%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA)
-  - [التثبيت على Termux](#التثبيت-على-termux)
-  - [التثبيت على Kali Linux](#التثبيت-على-kali-linux)
+- **التثبيت**
+  - [التثبيت على Termux](#تيرمكس)
+  - [التثبيت على توزيعات لينكس](#لينكس)
+- [تحديث الأداة](#تحديث)
 - [التشغيل](#التشغيل)
 - [طريقة الاستخدام](#طريقة-الاستخدام)
 - [مثال](#مثال)
@@ -61,7 +62,7 @@
 
 ---
 
-<div align="center" id="التثبيت-على-termux">
+<div align="center" id="تيرمكس">
 
 ## ⚙️ التثبيت
 
@@ -111,7 +112,7 @@ pkg update && pkg upgrade -y && pkg install python tor curl fontconfig rust -y &
 
 ---
 
-<div align="center" id="التثبيت-على-kali-linux">
+<div align="center" id="لينكس">
 
 ### Kali Linux
 
@@ -164,6 +165,27 @@ wl
 ```bash
 mud_wl.py
 ```
+
+---
+
+
+<div align="center" id="تحديث">
+  
+## تحديث الأداة
+
+***على أندرويد Termux***
+
+```bash
+curl -o $PREFIX/bin/mud_wl.py https://raw.githubusercontent.com/mmuhacker/mud-wl/main/mud_wl.py
+```
+
+***على توزيعات Linux***
+
+```bash
+sudo curl -o /usr/local/bin/mud_wl.py https://raw.githubusercontent.com/mmuhacker/mud-wl/main/mud_wl.py
+```
+  
+</div>
 
 ---
 

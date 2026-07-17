@@ -14,11 +14,13 @@
 ![Python](https://img.shields.io/badge/3x-%EF%BA%91%EF%BA%8E%EF%BB%B3%EF%BA%9C%EF%BB%AE%EF%BB%A6-blue?style=for-the-badge&logo=python)<br>
 ![License](https://img.shields.io/badge/MIT-%EF%BA%8D%EF%BB%9F%EF%BA%98%EF%BA%AE%EF%BA%A7%EF%BB%B4%EF%BA%BA-red?style=for-the-badge)<br>
 ![Status](https://img.shields.io/badge/%EF%BB%A7%EF%BA%B8%EF%BB%82-%EF%BA%8D%EF%BB%9F%EF%BA%A4%EF%BA%8E%EF%BB%9F%EF%BA%94-blue?style=for-the-badge)
+
+</div
+  
 ---
 
-**المحتويات:**
 
-</div>
+**المحتويات:**
 
 - [الوصف](#الوصف)
 - [المميزات](#المميزات)
@@ -27,7 +29,7 @@
   - [التثبيت على توزيعات لينكس](#لينكس)
 - [تحديث الأداة](#تحديث)
 - [التشغيل](#التشغيل)
-- [طريقة الاستخدام](#طريقة-الاستخدام)
+- [طريقة الاستخدام](#إستخدام)
 - [مثال](#مثال)
 - [المتطلبات](#المتطلبات)
 - [إخلاء المسؤولية](#إخلاء-المسؤولية)
@@ -150,25 +152,6 @@ sudo apt update && sudo apt upgrade -y && pip install requests arabic-reshaper p
 
 ---
 
-<div align="center" id="التشغيل">
-
-## 🚀 التشغيل
-
-</div>
-
-```bash
-wl
-```
-
-**أو بالأمر الكامل**
-
-```bash
-mud_wl.py
-```
-
----
-
-
 <div align="center" id="تحديث">
   
 ## تحديث الأداة
@@ -189,7 +172,26 @@ sudo curl -o /usr/local/bin/mud_wl.py https://raw.githubusercontent.com/mmuhacke
 
 ---
 
-<div align="center" id="طريقة-الاستخدام">
+
+<div align="center" id="التشغيل">
+
+## 🚀 التشغيل
+
+</div>
+
+```bash
+wl
+```
+
+**أو بالأمر الكامل**
+
+```bash
+mud_wl.py
+```
+
+---
+
+<div align="center" id="إستخدام">
 
 ## 📖 طريقة الاستخدام
 

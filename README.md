@@ -236,6 +236,15 @@ mud_wl.py
 
 ---
 
+<div align="center" id="لقطات">
+  
+## 📸 لقطات الأداة
+
+</div>
+
+
+---
+
 <div align="center" id="المتطلبات">
 
 ## 🔧 المتطلبات

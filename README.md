@@ -246,25 +246,26 @@ mud_wl.py
   <img src="img/wl0.png" width="600" alt="بانر الأداة"><br>
   <em>الشكل 1: واجهة البانر الرئيسية</em>
 </p><br>
+
 <p align="center">
-  <img src="img/enc1.png" width="600" alt="ألوان الإطارات"><br>
-  <em>الشكل 2: إختيار ألوان الإطارات للأداة</em>
+  <img src="img/wl1.png" width="600" alt="القائمة الرئيسية"><br>
+  <em>الشكل 2: القائمة الرئيسية</em>
 </p><br>
 <p align="center">
-  <img src="img/enc2.png" width="600" alt="خلفية الإطارات"><br>
-  <em>الشكل 3: إختيار لون خلفية الإطارات</em>
+  <img src="img/wl2.png" width="600" alt="إستعلام نطاق"><br>
+  <em>الشكل 3: إستعلام نطاق</em>
 </p><br>
 <p align="center">
-  <img src="img/enc3.png" width="600" alt="ألوان النصوص"><br>
-  <em>الشكل 4: إختيار لون النصوص</em>
+  <img src="img/wl3.png" width="600" alt="نص نطاق"><br>
+  <em>الشكل 4: النص الكامل لنتيجة النطاق</em>
 </p><br>
 <p align="center">
-  <img src="img/enc4.png" width="600" alt="القائمة الرئيسية"><br>
-  <em>الشكل 5: القائمة الرئيسية</em>
+  <img src="img/wl4.png" width="600" alt="إستعلام ip"><br>
+  <em>الشكل 5: إستعلام ip</em>
 </p><br>
-<p align="center">
-  <img src="img/enc5.png" width="600" alt="تشفير/فك التشفير"><br>
-  <em>الشكل 6: قائمة التشفير/فك التشفير</em>
+p align="center">
+  <img src="img/wl٥.png" width="600" alt="نص إستعلام ip"><br>
+  <em>الشكل 5: إستعلام ip</em>
 </p><br>
 
 ---

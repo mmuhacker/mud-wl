@@ -242,6 +242,33 @@ mud_wl.py
 
 </div>
 
+<p align="center">
+  <img src="img/wl0.png" width="600" alt="بانر الأداة"><br>
+  <em>الشكل 1: واجهة البانر الرئيسية</em>
+</p><br>
+<p align="center">
+  <img src="img/enc1.png" width="600" alt="ألوان الإطارات"><br>
+  <em>الشكل 2: إختيار ألوان الإطارات للأداة</em>
+</p><br>
+<p align="center">
+  <img src="img/enc2.png" width="600" alt="خلفية الإطارات"><br>
+  <em>الشكل 3: إختيار لون خلفية الإطارات</em>
+</p><br>
+<p align="center">
+  <img src="img/enc3.png" width="600" alt="ألوان النصوص"><br>
+  <em>الشكل 4: إختيار لون النصوص</em>
+</p><br>
+<p align="center">
+  <img src="img/enc4.png" width="600" alt="القائمة الرئيسية"><br>
+  <em>الشكل 5: القائمة الرئيسية</em>
+</p><br>
+<p align="center">
+  <img src="img/enc5.png" width="600" alt="تشفير/فك التشفير"><br>
+  <em>الشكل 6: قائمة التشفير/فك التشفير</em>
+</p><br>
+
+---
+
 
 ---
 

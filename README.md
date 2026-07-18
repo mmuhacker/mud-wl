@@ -264,16 +264,9 @@ mud_wl.py
   <em>الشكل 5: إستعلام ip</em>
 </p><br>
 <p align="center">
-  <img src="img/wl4.png" width="600" alt="إستعلام ip"><br>
-  <em>الشكل 6: إستعلام آي بي</em>
+  <img src="img/wl5.png" width="600" alt="نص إستعلام ip"><br>
+  <em>الشكل 6: نص إستعلام ip</em>
 </p><br>
-<p align="center">
-  <img src="img/wl4.png" width="600" alt="إستعلام ip"><br>
-  <em>الشكل 5: إستعلام ip</em>
-</p><br>
-
----
-
 
 ---
 

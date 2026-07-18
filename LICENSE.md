@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="img/enc7.png" width="600" alt="بانر الأداة"></p>
+  <img src="img/wl0.png" width="600" alt="بانر الأداة"></p>
   
   ---
 

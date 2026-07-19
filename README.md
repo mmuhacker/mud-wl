@@ -312,6 +312,8 @@ mud_wl.py
 
 [![GitHub](https://img.shields.io/badge/GitHub-mmuhacker-black?style=for-the-badge&logo=github)](https://github.com/mmuhacker)
 
+</div>
+
 ---
 
 <div align="center" id="ترخيص">
